@@ -1,0 +1,54 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+table{
+    border: black 1px solid;  
+    background-color: lightyellow; 
+    
+}
+
+ th {
+    border: black 1px solid;
+    inline-size: 5cm;   
+}
+
+img.logo{
+    width: 100px;
+    height: 75px;
+    float: left;    
+}
+
+img.box{
+    float: right;
+    width: 300px;
+    height: 200px;
+
+}
+img.student{
+    width: 500px;
+    height: 200px;
+   margin-left: 40%;
+}
+
+h1.titulo{
+    margin-left: 5%;
+
+}
+
+span#azul{
+color: blue;
+
+}
+p{
+       text-align: justify;
+}
+p.blue{
+    background-color: lightblue;
+}
+p.log{
+    text-align: right;
+}
+
